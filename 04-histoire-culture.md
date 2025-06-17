@@ -31,3 +31,15 @@ Au carrefour des influences anglo-normandes, l'histoire de Jersey est marquée p
 - Identité culturelle mixte, entre traditions britanniques et héritages français.
 - Calendrier festif animé : Battle of Flowers, Liberation Day (9 mai), marchés artisanaux.
 - Spécialités culinaires : fruits de mer, produits laitiers (la fameuse *Jersey cow*), pommes de terre primeur (*Jersey Royals*).
+
+
+## Sommaire
+
+- [Géographie et tourisme](01-geographie-tourisme.md)
+- [Économie et finance](02-economie-finance.md)
+- [Politique et juridique](03-politique-juridique.md)
+- [Histoire et culture](04-histoire-culture.md)
+- [Stratégie et diplomatie](05-strategie-diplomatique.md)
+
+  
+- [Accueil](index.md)
