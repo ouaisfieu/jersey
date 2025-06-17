@@ -23,6 +23,14 @@ Grâce à l'influence du Gulf Stream, Jersey bénéficie d'un climat océanique 
 - Accessible rapidement depuis le Royaume-Uni par avion ou ferry.
 - Carrefour discret entre les sphères britannique et européenne.
 
+## Sommaire
+
+- [Géographie et tourisme](01-geographie-tourisme.md)
+- [Économie et finance](02-economie-finance.md)
+- [Politique et juridique](03-politique-juridique.md)
+- [Histoire et culture](04-histoire-culture.md)
+- [Stratégie et diplomatie](05-strategie-diplomatique.md)
+
 ## Un tourisme de niche
 
 - Clientèle britannique et internationale recherchant calme, discrétion et qualité.
