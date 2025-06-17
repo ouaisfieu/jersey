@@ -34,3 +34,15 @@ Bien qu’associée historiquement aux paradis fiscaux, Jersey a pris de nombreu
 ## Un équilibre fragile mais assumé
 
 Jersey cultive un positionnement stratégique : offrir un cadre favorable aux investissements tout en affichant une conformité aux exigences internationales. Cette double ambition alimente régulièrement les débats politiques sur son modèle économique.
+
+
+## Sommaire
+
+- [Géographie et tourisme](01-geographie-tourisme.md)
+- [Économie et finance](02-economie-finance.md)
+- [Politique et juridique](03-politique-juridique.md)
+- [Histoire et culture](04-histoire-culture.md)
+- [Stratégie et diplomatie](05-strategie-diplomatique.md)
+
+  
+- [Accueil](index.md)
