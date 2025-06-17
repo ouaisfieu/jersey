@@ -29,3 +29,14 @@ Jersey occupe une position juridique et politique singulière en Europe, à la c
 ## Relations extérieures et diplomatie
 
 Jersey gère ses propres relations fiscales et économiques avec de nombreux pays, mais délègue les questions de défense et de diplomatie classique au Royaume-Uni.
+
+## Sommaire
+
+- [Géographie et tourisme](01-geographie-tourisme.md)
+- [Économie et finance](02-economie-finance.md)
+- [Politique et juridique](03-politique-juridique.md)
+- [Histoire et culture](04-histoire-culture.md)
+- [Stratégie et diplomatie](05-strategie-diplomatique.md)
+
+  
+- [Accueil](index.md)
