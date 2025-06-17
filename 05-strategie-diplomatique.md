@@ -30,3 +30,15 @@ Au-delà de ses dimensions économique et culturelle, Jersey occupe une place pa
 - Statut hybride qui intéresse les observateurs du droit international.
 - Exemple d’autonomie avancée sans indépendance formelle.
 - Modèle étudié dans les débats sur les dépendances de la Couronne et les territoires à statut spécial.
+
+
+## Sommaire
+
+- [Géographie et tourisme](01-geographie-tourisme.md)
+- [Économie et finance](02-economie-finance.md)
+- [Politique et juridique](03-politique-juridique.md)
+- [Histoire et culture](04-histoire-culture.md)
+- [Stratégie et diplomatie](05-strategie-diplomatique.md)
+
+  
+- [Accueil](index.md)
